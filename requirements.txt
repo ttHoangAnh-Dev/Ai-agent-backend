@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn[standard]
+pydantic-settings
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pgvector
+litellm
+pytest
+pytest-asyncio
+httpx
